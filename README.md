@@ -15,9 +15,8 @@ Before running the project, ensure you have the following:
 ## Setup Instructions
 
 ### 1. Download the Dataset
-The dataset (the `images` directory) must be downloaded from the following [link](#). After downloading:
+The dataset (the `images` directory) must be downloaded from the following [link](https://drive.google.com/drive/folders/1WczSeTOI6y_KzT5LeG36f7hWPawtV8Nz?usp=sharing). After downloading:
 - Extract and place the `images` directory in the project root.
-
 
 ### 2. Install Dependencies
 Install the required Python libraries using the `requirements.txt` file:
