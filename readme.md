@@ -12,7 +12,7 @@ For the pipeline:
 
 ## Results:
 
-![Keyword_Retrieval_results](https://github.com/user-attachments/assets/e61118ce-26e9-4237-a16f-3eeca02eb19d)
+![image](https://github.com/user-attachments/assets/25acf5a8-ed47-4188-a058-3310fc251a8f)
  
 
 ## References:
