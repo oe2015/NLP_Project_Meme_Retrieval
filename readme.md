@@ -10,7 +10,10 @@ For the pipeline:
 - Second, generate human-like queries from meme OCR, Title, image description and humor description using `LLaMA 3.2`. notebook in `dataset_creation/data_set_preparation_query_generation.ipynb`
 - Third, use the full dataset for training and evaluating Keyword based search algorithms TF-IDF, BM25 & Probabilistic Rertrieval model. notebook in `retrieval_system/retrieval_system.ipynb`
 
-## Results: 
+## Results:
+
+![Keyword_Retrieval_results](https://github.com/user-attachments/assets/e61118ce-26e9-4237-a16f-3eeca02eb19d)
+ 
 
 ## References:
 - [1] MemeCap: A New Dataset and Method for Analyzing Multimodal Memes, 2021, https://arxiv.org/abs/2104.02825
