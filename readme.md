@@ -12,8 +12,9 @@ For the pipeline:
 
 ## Results:
 
-![image](https://github.com/user-attachments/assets/25acf5a8-ed47-4188-a058-3310fc251a8f)
- 
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/25acf5a8-ed47-4188-a058-3310fc251a8f" alt="image" width="50%">
+</div> 
 
 ## References:
 - [1] MemeCap: A New Dataset and Method for Analyzing Multimodal Memes, 2021, https://arxiv.org/abs/2104.02825
