@@ -10,13 +10,8 @@ For the pipeline:
 - Second, generate human-like queries from meme OCR, Title, image description and humor description using `LLaMA 3.2`. notebook in `dataset_creation/data_set_preparation_query_generation.ipynb`
 - Third, use the full dataset for training and evaluating Keyword based search algorithms TF-IDF, BM25 & Probabilistic Rertrieval model. notebook in `retrieval_system/retrieval_system.ipynb`
 
-## Results:
-
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/25acf5a8-ed47-4188-a058-3310fc251a8f" alt="image" width="50%">
-</div> 
-
 ## References:
+
 - [1] MemeCap: A New Dataset and Method for Analyzing Multimodal Memes, 2021, https://arxiv.org/abs/2104.02825
 - [2] LLaMA: AI@Meta. 2024. [LLaMA 3 Model Card](https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md)
 - [3] TF-IDF:  Gerard Salton. 1988. Automatic Text Processing: The Transformation, Analysis, and Retrieval of Information by Computer. Addison-Wesley Longman Publishing Co., Inc.
