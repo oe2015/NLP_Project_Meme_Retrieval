@@ -15,7 +15,6 @@ This repository contains a Jupyter Notebook that demonstrates the fine-tuning of
 6. [Usage](#usage)
 7. [Results](#results)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
@@ -121,10 +120,4 @@ Evaluation includes Recall@k and MRR metrics, demonstrating performance enhancem
 Contributions are welcome! Please feel free to:
 - Open issues for bugs or feature requests.
 - Submit pull requests with improvements or new features.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
