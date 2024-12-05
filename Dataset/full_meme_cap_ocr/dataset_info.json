@@ -1,0 +1,105 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 2526845,
+  "description": "",
+  "download_checksums": {
+    "/home/ahmed.attia/projects/nlp-meme-retrieval/./meme-cap/data/memes-trainval.json": {
+      "num_bytes": 4488944,
+      "checksum": null
+    },
+    "/home/ahmed.attia/projects/nlp-meme-retrieval/./meme-cap/data/memes-test.json": {
+      "num_bytes": 639599,
+      "checksum": null
+    }
+  },
+  "download_size": 5128543,
+  "features": {
+    "category": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "img_captions": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "meme_captions": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "img_fname": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "metaphors": [
+      {
+        "meaning": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "metaphor": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "post_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "extracted_text": {
+      "<OCR_WITH_REGION>": {
+        "labels": {
+          "feature": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "_type": "Sequence"
+        },
+        "quad_boxes": {
+          "feature": {
+            "feature": {
+              "dtype": "float64",
+              "_type": "Value"
+            },
+            "_type": "Sequence"
+          },
+          "_type": "Sequence"
+        }
+      }
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 7655388,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2526845,
+      "num_examples": 6382,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
